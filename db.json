@@ -1,0 +1,321 @@
+{
+  "cars": [
+    {
+      "rank": 1,
+      "logo_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwvGP-PIZvE-T76XKwaOg-1sOGBL1M3tPa5w&s",
+      "image_car": "https://newgarage.com/uploads/post_image/keAGn2rsb2X2pCC48nXJt3XgxK8MwqQToyota_Camry_2.0G_%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%AA_Prins_silverline_Technomax_-_Prins_Thailand.jpg",
+      "name": "Toyota",
+      "type": "Sedan",
+      "car_model": "Camry",
+      "car_detail": "Engine: Available in 2.5-liter 4-cylinder and 3.5-liter V6 options.\nTransmission: 8-speed automatic transmission.\nHybrid Model: Uses a 2.5-liter engine with an electric motor.\nSafety: Toyota Safety Sense comes standard.\nTechnology: Touchscreen with Apple CarPlay and Android Auto.\nPassenger Capacity: Seats 5 people with a spacious cabin.",
+      "Car_rental price": 3893,
+      "id": "04c0"
+    },
+    {
+      "rank": 2,
+      "logo_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwvGP-PIZvE-T76XKwaOg-1sOGBL1M3tPa5w&s",
+      "image_car": "https://www.grandprix.co.th/wp-content/uploads/2024/01/Toyota-Corolla-Cross-2024-5.jpg",
+      "name": "Toyota",
+      "type": "SUV",
+      "car_model": "Corolla Cross",
+      "car_detail": "Engine: Available with a 1.8-liter 4-cylinder or a 2.0-liter 4-cylinder engine.\nTransmission: Continuously Variable Transmission (CVT).\nHybrid Model: Available with a hybrid system for improved fuel efficiency.\nSafety: Equipped with Toyota Safety Sense as standard.\nTechnology: Touchscreen with Apple CarPlay and Android Auto.\nPassenger Capacity: Seats 5 people with ample cargo space.",
+      "Car_rental price": 2639,
+      "id": "a20c"
+    },
+    {
+      "rank": 3,
+      "logo_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwvGP-PIZvE-T76XKwaOg-1sOGBL1M3tPa5w&s",
+      "image_car": "https://img.icarcdn.com/autospinn/body/000000690316_71bab4db_6b47_4eee_ba16_c3637419417d.jpg",
+      "name": "Toyota",
+      "type": "Pickup Truck",
+      "car_model": "Tacoma",
+      "car_detail": "Engine: Available with a 2.7-liter 4-cylinder or a 3.5-liter V6 engine.\nTransmission: 6-speed manual or 6-speed automatic transmission.\nHybrid Model: Currently, the Tacoma does not offer a hybrid option.\nSafety: Equipped with Toyota Safety Sense as standard.\nTechnology: Touchscreen with Apple CarPlay and Android Auto.\nPassenger Capacity: Seats 4 or 5 people, depending on the cab configuration, with a spacious interior.",
+      "Car_rental price": 3814,
+      "id": "9ff8"
+    },
+    {
+      "rank": 4,
+      "logo_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGqh3eqF_ZDcpCYB8ODOSlJ6IlKBQo8tcDgA&s",
+      "image_car": "https://carvariety.com/wp-content/uploads/2019/09/images-4.jpg",
+      "name": "Ford",
+      "type": "Sport Car",
+      "car_model": "Shelby gt500",
+      "car_detail": "Engine: 5.2-liter supercharged V8, producing around 760 horsepower.\nTransmission: 7-speed dual-clutch automatic transmission.\nHybrid Model: The GT500 does not offer a hybrid option.\nSafety: Includes advanced safety features but is focused more on performance; may include options like adaptive cruise control and lane-keeping assist.\nTechnology: Features a touchscreen with Ford's SYNC system, including Apple CarPlay and Android Auto.\nPassenger Capacity: Seats 2 in the front and 2 in the rear, for a total of 4 passengers.",
+      "Car_rental price": 3607,
+      "id": "7727"
+    },
+    {
+      "rank": 5,
+      "logo_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGqh3eqF_ZDcpCYB8ODOSlJ6IlKBQo8tcDgA&s",
+      "image_car": "https://www.fordrma.com/wp-content/uploads/2023/05/2023_ford_f-150_crew-cab-pickup_lariat_fq_oem_2_1280x855-1024x684.jpg",
+      "name": "Ford",
+      "type": "Pickup Truck",
+      "car_model": "F-150",
+      "car_detail": "Engine: Options include a 3.3-liter V6, a 2.7-liter turbocharged V6, a 5.0-liter V8, and a 3.5-liter turbocharged V6. There's also a hybrid variant with a 3.5-liter turbocharged V6 and electric motor.\nTransmission: 10-speed automatic transmission.\nHybrid Model: Available with the PowerBoost hybrid system, combining a 3.5-liter turbocharged V6 with an electric motor.\nSafety: Features Ford Co-Pilot360, which includes advanced safety technologies like automatic emergency braking, lane-keeping assist, and adaptive cruise control.\nTechnology: Equipped with a touchscreen infotainment system featuring Ford's SYNC 4, Apple CarPlay, and Android Auto.\nPassenger Capacity: Depending on the cab configuration, it can seat 3 in the Regular Cab, 5 in the SuperCab, or up to 6 in the SuperCrew.",
+      "Car_rental price": 3312,
+      "id": "5895"
+    },
+    {
+      "rank": 6,
+      "logo_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGqh3eqF_ZDcpCYB8ODOSlJ6IlKBQo8tcDgA&s",
+      "image_car": "https://crdms.images.consumerreports.org/c_lfill,w_1410,q_auto,f_auto/prod/cars/chrome/white/2018FOC120087_1280_01",
+      "name": "Ford",
+      "type": "Sedan",
+      "car_model": "Focus",
+      "car_detail": "Engine: Options include a 2.0-liter 4-cylinder engine, a 1.5-liter turbocharged 4-cylinder, and a 2.3-liter turbocharged 4-cylinder (in the performance-oriented ST model).\nTransmission: 6-speed manual or 8-speed automatic transmission, depending on the model and engine.\nHybrid Model: The Ford Focus does not currently offer a hybrid variant.\nSafety: Includes Ford Co-Pilot360 with features like automatic emergency braking, lane-keeping assist, and blind-spot monitoring.\nTechnology: Comes with a touchscreen infotainment system featuring Ford's SYNC 3, Apple CarPlay, and Android Auto.\nPassenger Capacity: Seats 5 people with a comfortable interior and adequate cargo space.",
+      "Car_rental price": 3569,
+      "id": "96f5"
+    },
+    {
+      "rank": 7,
+      "logo_link": "https://blog.logomaster.ai/hs-fs/hubfs/bmw-logo-1963.jpg?width=672&height=454&name=bmw-logo-1963.jpg",
+      "image_car": "https://imgcdn.zigwheels.co.th/large/gallery/exterior/4/36/bmw-4-series-coupe-front-angle-low-view-912397.jpg",
+      "name": "BMW",
+      "type": "Coupe",
+      "car_model": "4 series coupe",
+      "car_detail": "Engine: Options include a 2.0-liter turbocharged 4-cylinder (430i) and a 3.0-liter turbocharged inline-6 (M440i). The high-performance M4 model features a 3.0-liter turbocharged inline-6.\nTransmission: 8-speed automatic transmission. The M4 features a 6-speed manual transmission as an option.\nHybrid Model: The 4 Series does not currently offer a hybrid option.\nSafety: Features include active driving assistance, automatic emergency braking, and lane-departure warning. Optional packages may add more advanced safety features.\nTechnology: Equipped with BMW's iDrive system, which includes a touchscreen, Apple CarPlay, Android Auto, and optional gesture controls.\nPassenger Capacity: Seats 4 people with sporty front seats and comfortable rear seats.",
+      "Car_rental price": 2896,
+      "id": "264a"
+    },
+    {
+      "rank": 8,
+      "logo_link": "https://blog.logomaster.ai/hs-fs/hubfs/bmw-logo-1963.jpg?width=672&height=454&name=bmw-logo-1963.jpg",
+      "image_car": "https://car-images.bauersecure.com/wp-images/13930/1056x594/001bmwi8carreview.jpg?mode=pad",
+      "name": "BMW",
+      "type": "Luxury Sports Cars",
+      "car_model": "i8",
+      "car_detail": "Engine: Plug-in hybrid system with a 1.5-liter turbocharged 3-cylinder engine paired with an electric motor, producing a combined output of 369 horsepower.\nTransmission: 6-speed automatic transmission for the gasoline engine and a 2-speed automatic transmission for the electric motor.\nHybrid Model: Yes, the i8 is a plug-in hybrid with both an electric motor and a gasoline engine.\nSafety: Features include adaptive cruise control, automatic emergency braking, and lane-departure warning.\nTechnology: Equipped with BMW's iDrive system, including a touchscreen infotainment system, Apple CarPlay, and Android Auto.\nPassenger Capacity: Seats 4 people with a sporty, futuristic interior.",
+      "Car_rental price": 3211,
+      "id": "b0d8"
+    },
+    {
+      "rank": 9,
+      "logo_link": "https://blog.logomaster.ai/hs-fs/hubfs/bmw-logo-1963.jpg?width=672&height=454&name=bmw-logo-1963.jpg",
+      "image_car": "https://xehay.vn/uploads/images/2020/7/03/xehay-BMW-M340i-xDrive-Touring-First-Edition-23072020-3_result.jpg",
+      "name": "BMW",
+      "type": "Sedan",
+      "car_model": "M340i",
+      "car_detail": "Engine: 3.0-liter turbocharged inline-6, producing around 382 horsepower.\nTransmission: 8-speed automatic transmission.\nHybrid Model: Not available as a hybrid.\nSafety: Includes advanced safety features similar to the 330i, with additional performance-oriented enhancements.\nTechnology: Upgraded iDrive system with advanced navigation and driver assistance features.\nPassenger Capacity: Seats 5 people.",
+      "Car_rental price": 2794,
+      "id": "863b"
+    },
+    {
+      "rank": 10,
+      "logo_link": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2020/07/b960fb_0f1c172a224848148a886b0372b1dac6mv2.png?resize=1000%2C856&quality=80&ssl=1",
+      "image_car": "https://www-asia.nissan-cdn.net/content/dam/Nissan/th/news/2017-gtr/2_52A2274.jpg.ximg.l_12_m.smart.jpg",
+      "name": "Nissan",
+      "type": "Coupe",
+      "car_model": "Gtr r35",
+      "car_detail": "The Nissan GT-R is powered by a 3.8-liter V6 twin-turbo engine, producing 565 horsepower (GT-R Premium) and 600 horsepower (GT-R Nismo).\nIt comes with a 6-speed dual-clutch automatic transmission, offering quick and precise gear shifts with multiple driving modes.\nThe Nissan GT-R does not offer a hybrid model.\nStandard safety features include multiple airbags, high-performance Brembo brakes, and a strong body structure designed for enhanced safety.\nIt features an 8-inch touchscreen infotainment system with Apple CarPlay, navigation, and an 11-speaker Bose sound system.\nThe GT-R seats 4 passengers, with a focus on front-seat comfort.",
+      "Car_rental price": 4023,
+      "id": "6ec1"
+    },
+    {
+      "rank": 11,
+      "logo_link": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2020/07/b960fb_0f1c172a224848148a886b0372b1dac6mv2.png?resize=1000%2C856&quality=80&ssl=1",
+      "image_car": "https://hips.hearstapps.com/hmg-prod/images/2019-nissan-altima-102-1538074559.jpg?crop=1.00xw:0.923xh;0,0&resize=1200:*",
+      "name": "Nissan",
+      "type": "Sedan",
+      "car_model": "Altima",
+      "car_detail": "Engine: Options include a 2.5-liter 4-cylinder engine, producing around 188 horsepower, and a 2.0-liter turbocharged 4-cylinder engine, producing around 248 horsepower.\nTransmission: Continuously Variable Transmission (CVT) is standard.\nHybrid Model: The Altima does not currently offer a hybrid variant.\nSafety: Equipped with Nissan Safety Shield 360, which includes automatic emergency braking, blind-spot monitoring, rear cross-traffic alert, and lane departure warning.\nTechnology: Features a touchscreen infotainment system with Apple CarPlay and Android Auto. Higher trims may include additional tech features like a larger touchscreen and a premium audio system.\nPassenger Capacity: Seats 5 people with a comfortable and spacious interior.",
+      "Car_rental price": 3222,
+      "id": "bea5"
+    },
+    {
+      "rank": 12,
+      "logo_link": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2020/07/b960fb_0f1c172a224848148a886b0372b1dac6mv2.png?resize=1000%2C856&quality=80&ssl=1",
+      "image_car": "https://motortrivia.com/wp-content/uploads/2023/06/Nissan-Sentra-2024-01-2540x1448_c.jpg",
+      "name": "Nissan",
+      "type": "Sedan",
+      "car_model": "Sentra",
+      "car_detail": "Engine: 2.0-liter 4-cylinder engine, producing around 149 horsepower.\nTransmission: Continuously Variable Transmission (CVT) is standard.\nHybrid Model: The Sentra does not currently offer a hybrid variant.\nSafety: Equipped with Nissan Safety Shield 360, including features like automatic emergency braking, blind-spot monitoring, rear cross-traffic alert, and lane departure warning.\nTechnology: Comes with a touchscreen infotainment system featuring Apple CarPlay and Android Auto. Higher trims offer additional features like a larger touchscreen and upgraded audio systems.\nPassenger Capacity: Seats 5 people with a well-designed and comfortable interior.",
+      "Car_rental price": 4454,
+      "id": "8a38"
+    },
+    {
+      "rank": 13,
+      "logo_link": "https://blog.logomaster.ai/hs-fs/hubfs/ferrari-logo-1929.jpg?width=1700&height=1148&name=ferrari-logo-1929.jpg",
+      "image_car": "https://www.headlightmag.com/hlmwp/wp-content/uploads/2018/02/Ferrari-488_Pista-2019-800-02.jpg",
+      "name": "Ferrari",
+      "type": "Luxury Car",
+      "car_model": "488 pista",
+      "car_detail": "Engine: 3.9-liter twin-turbocharged V8, producing around 710 horsepower.\nTransmission: 7-speed dual-clutch automatic transmission.\nHybrid Model: The 488 Pista does not offer a hybrid variant.\nSafety: Advanced safety features are present but are generally more performance-oriented; includes traction control and advanced driver aids.\nTechnology: Features a digital instrument cluster, a high-resolution touchscreen infotainment system with navigation, and various driving modes.\nPassenger Capacity: Seats 2 people with a focus on performance and driver engagement, offering a minimalistic but high-quality interior.",
+      "Car_rental price": 3011,
+      "id": "b9ec"
+    },
+    {
+      "rank": 14,
+      "logo_link": "https://blog.logomaster.ai/hs-fs/hubfs/ferrari-logo-1929.jpg?width=1700&height=1148&name=ferrari-logo-1929.jpg",
+      "image_car": "https://static01.nyt.com/images/2010/08/22/automobiles/WHEE-2/WHEE-2-articleLarge.jpg?quality=75&auto=webp",
+      "name": "Ferrari",
+      "type": "Luxury Car",
+      "car_model": "458 Italia",
+      "car_detail": "Engine: 4.5-liter naturally aspirated V8, producing around 562 horsepower.\nTransmission: 7-speed dual-clutch automatic transmission.\nHybrid Model: The 458 Italia does not offer a hybrid variant.\nSafety: Features include advanced traction and stability control systems, but it is primarily focused on performance. Includes standard driver aids for enhanced handling.\nTechnology: Equipped with a digital instrument cluster, a touchscreen infotainment system, and Ferrari's Manettino dial for selecting driving modes.\nPassenger Capacity: Seats 2 people with a driver-focused interior designed for high performance and comfort.",
+      "Car_rental price": 4047,
+      "id": "3f21"
+    },
+    {
+      "rank": 15,
+      "logo_link": "https://blog.logomaster.ai/hs-fs/hubfs/ferrari-logo-1929.jpg?width=1700&height=1148&name=ferrari-logo-1929.jpg",
+      "image_car": "https://image.makewebeasy.net/makeweb/0/ZeRUazFMT/contentPic/Novitec_Ferrari_296_GTB_Bangkoksupercar_4_1.jpg?v=202206091808",
+      "name": "Ferrari",
+      "type": "Super Luxury Sports Cars",
+      "car_model": "296 GTB",
+      "car_detail": "Engine: 3.0-liter twin-turbocharged V6, producing around 654 horsepower, paired with an electric motor that adds approximately 165 horsepower, giving a total combined output of around 819 horsepower.\nTransmission: 8-speed dual-clutch automatic transmission.\nHybrid Model: Yes, the 296 GTB is a plug-in hybrid, combining a V6 engine with an electric motor for enhanced performance and efficiency.\nSafety: Includes advanced safety features and driver aids, such as adaptive cruise control, lane departure warning, and traction control systems.\nTechnology: Features a digital instrument cluster, a large touchscreen infotainment system with Ferrari's latest interface, and various driving modes.\nPassenger Capacity: Seats 2 people with a focus on high-performance driving and luxury.",
+      "Car_rental price": 4105,
+      "id": "93e6"
+    },
+    {
+      "rank": 16,
+      "logo_link": "https://lezebre.lu/images/detailed/18/Honda_Logo_voiture.png",
+      "image_car": "https://img.pcauto.com/model/images/touPic/th/Honda-Civic_1211.png",
+      "name": "Honda",
+      "type": "Sedan",
+      "car_model": "Civic",
+      "car_detail": "Engine: Engine options typically include a 2.0-liter 4-cylinder engine, producing around 158 horsepower, and a 1.5-liter turbocharged 4-cylinder engine, producing around 180 horsepower.\nTransmission: Continuously Variable Transmission (CVT) for most models, with a 6-speed manual transmission available for the Civic Type R.\nHybrid Model: The Honda Civic does not currently offer a hybrid variant, but the Honda Civic Hybrid was available in previous generations.\nSafety: Equipped with Honda Sensing® safety suite, which includes adaptive cruise control, collision mitigation braking, lane-keeping assist, and road departure mitigation.\nTechnology: Features a touchscreen infotainment system with Apple CarPlay and Android Auto, along with options for premium audio systems and advanced navigation.\nPassenger Capacity: Seats 5 people with a comfortable and spacious interior.",
+      "Car_rental price": 4287,
+      "id": "09f4"
+    },
+    {
+      "rank": 17,
+      "logo_link": "https://lezebre.lu/images/detailed/18/Honda_Logo_voiture.png",
+      "image_car": "https://www.hondafirst.co.th/sites/storage/files/styles/550x550/typmedia/olc/80006259/660c1b43b1978-Honda+City+%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%82%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99.jpg?itok=66f57b5f",
+      "name": "Honda",
+      "type": "Sedan",
+      "car_model": "City",
+      "car_detail": "Engine: Typically equipped with a 1.5-liter 4-cylinder engine, producing around 119 horsepower. Some markets may offer a 1.0-liter turbocharged engine.\nTransmission: Continuously Variable Transmission (CVT) is standard, providing smooth and efficient gear changes.\nHybrid Model: Available as Honda City e, featuring a 1.5-liter engine combined with electric motors for improved fuel efficiency and lower emissions.\nSafety: Comes with Honda Sensing® safety suite in higher trims, including adaptive cruise control, lane-keeping assist, and collision mitigation braking. Standard safety features include multiple airbags and vehicle stability assist.\nTechnology: Equipped with a touchscreen infotainment system featuring Apple CarPlay and Android Auto. Higher trims may also offer a premium sound system, navigation, and advanced climate control features.\nPassenger Capacity: Seats 5 people comfortably with ample legroom and cargo space, making it suitable for both city driving and longer trips.",
+      "Car_rental price": 3582,
+      "id": "9ef7"
+    },
+    {
+      "rank": 18,
+      "logo_link": "https://lezebre.lu/images/detailed/18/Honda_Logo_voiture.png",
+      "image_car": "https://www.checkraka.com/uploaded/gallery/57/57f55080d9679e36131107ea532240d2.jpg",
+      "name": "Honda",
+      "type": "SUV",
+      "car_model": "CR-V",
+      "car_detail": "Engine: Typically equipped with a 1.5-liter 4-cylinder engine, producing around 119 horsepower. Some markets may offer a 1.0-liter turbocharged engine.\nTransmission: Continuously Variable Transmission (CVT) is standard.\nHybrid Model: The Honda City does not currently offer a hybrid variant in many markets, but some regions have had hybrid versions in the past.\nSafety: Features often include Honda Sensing® suite with adaptive cruise control, collision mitigation braking, lane-keeping assist, and road departure mitigation. Standard safety features also include multiple airbags and stability control.\nTechnology: Comes with a touchscreen infotainment system featuring Apple CarPlay and Android Auto. Higher trims may offer additional tech features like navigation and premium audio systems.\nPassenger Capacity: Seats 5 people with a comfortable and spacious interior for its class.",
+      "Car_rental price": 3736,
+      "id": "5f9e"
+    },
+    {
+      "rank": 19,
+      "logo_link": "https://m.media-amazon.com/images/I/41Nx6c+5DhL._AC_UF894,1000_QL80_.jpg",
+      "image_car": "https://motortrivia.com/wp-content/uploads/2020/10/tesla-model-3-2021-facelifted-01-2540x1448_c.jpg",
+      "name": "Tesla",
+      "type": "Electric Vehicle - EV",
+      "car_model": "Model 3",
+      "car_detail": "Engine: The Model 3 offers several configurations:\nStandard Range Plus: Rear-wheel drive with a single electric motor.\nLong Range: Dual-motor all-wheel drive.\nPerformance: Dual-motor all-wheel drive with higher power output.\nTransmission: Single-speed automatic transmission (direct drive) for all variants.\nHybrid Model: The Model 3 is fully electric and does not offer a hybrid variant.\nSafety: Includes advanced safety features such as automatic emergency braking, adaptive cruise control, lane-keeping assist, and a robust set of airbags. It also features Tesla’s Autopilot driver assistance system with optional Full Self-Driving capabilities.\nTechnology: Equipped with a large touchscreen infotainment system that controls most vehicle functions, including navigation, media, and climate control. Features include over-the-air updates, Apple CarPlay, and Android Auto compatibility.\nPassenger Capacity: Seats 5 people with a minimalist and high-tech interior. It also offers ample cargo space with a front trunk (frunk) and rear trunk.",
+      "Car_rental price": 3431,
+      "id": "af83"
+    },
+    {
+      "rank": 20,
+      "logo_link": "https://m.media-amazon.com/images/I/41Nx6c+5DhL._AC_UF894,1000_QL80_.jpg",
+      "image_car": "https://www.blognone.com/sites/default/files/externals/d82358a5c7e15c8e807c518fec0bc70d.jpg",
+      "name": "Tesla",
+      "type": "Electric Vehicle - EV",
+      "car_model": "Model X",
+      "car_detail": "Engine:\n\nLong Range: Dual-motor all-wheel drive.\nPlaid: Tri-motor all-wheel drive with higher power output.\nTransmission: Single-speed automatic transmission (direct drive) for all variants.\nHybrid Model: The Model X is fully electric and does not offer a hybrid variant.\nSafety: Includes advanced safety features such as automatic emergency braking, adaptive cruise control, lane-keeping assist, and a comprehensive airbag system. It also features Tesla’s Autopilot driver assistance system with optional Full Self-Driving capabilities.\nTechnology: Equipped with a large touchscreen infotainment system that controls most vehicle functions, including navigation, media, and climate control. Features include over-the-air updates, a premium sound system, and optional Full Self-Driving capabilities. It also has unique features like Falcon Wing doors and an extensive camera system for enhanced driver assistance.\nPassenger Capacity: Configurations for 5, 6, or 7 passengers with a spacious interior. The Model X features a three-row seating arrangement with ample cargo space and innovative features like the Falcon Wing doors.",
+      "Car_rental price": 2502,
+      "id": "bcd6"
+    },
+    {
+      "rank": 21,
+      "logo_link": "https://m.media-amazon.com/images/I/41Nx6c+5DhL._AC_UF894,1000_QL80_.jpg",
+      "image_car": "https://www.autotirechecking.com/wp-content/uploads//Tesla-Model-Y-%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2-07.jpg",
+      "name": "Tesla",
+      "type": "Electric Vehicle - EV",
+      "car_model": "Model Y",
+      "car_detail": "Engine:\n\nStandard Range: Rear-wheel drive with a single electric motor.\nLong Range: Dual-motor all-wheel drive.\nPerformance: Dual-motor all-wheel drive with higher power output.\nTransmission: Single-speed automatic transmission (direct drive) for all variants.\nHybrid Model: The Model Y is fully electric and does not offer a hybrid variant.\nSafety: Includes advanced safety features such as automatic emergency braking, adaptive cruise control, lane-keeping assist, and a comprehensive airbag system. It also features Tesla’s Autopilot driver assistance system with optional Full Self-Driving capabilities.\nTechnology: Features a large touchscreen infotainment system that controls most vehicle functions, including navigation, media, and climate control. Includes over-the-air updates, a premium sound system, and optional Full Self-Driving capabilities. It also supports keyless entry and has an expansive panoramic glass roof.\nPassenger Capacity: Seats up to 7 people with an optional third-row seating configuration. The Model Y also offers ample cargo space with a rear trunk and a front trunk (frunk).",
+      "Car_rental price": 4373,
+      "id": "3be4"
+    },
+    {
+      "rank": 22,
+      "logo_link": "https://m.media-amazon.com/images/I/7189UmH5qjL.jpg",
+      "image_car": "https://autoinfo.co.th/uploads/2022/11/117.jpg",
+      "name": "porsche",
+      "type": "Coupe",
+      "car_model": "911 Carrera",
+      "car_detail": "Engine: 3.0-liter twin-turbocharged flat-six engine, producing around 379 horsepower.\nCarrera S: 3.0-liter twin-turbocharged flat-six engine, producing around 443 horsepower.\nTransmission: 8-speed dual-clutch automatic transmission (PDK) is standard.\nHybrid Model: The 911 Carrera does not currently offer a hybrid variant.\nSafety: Includes advanced safety features such as adaptive cruise control, lane-keeping assist, automatic emergency braking, and a comprehensive airbag system.\nTechnology: Features a high-resolution touchscreen infotainment system with Porsche Communication Management (PCM), which includes navigation, Apple CarPlay, and Android Auto. Also includes various driving modes and performance tracking features.\nPassenger Capacity: Seats 4 people with a sports-focused interior. The rear seats are more suitable for occasional use or extra storage.",
+      "Car_rental price": 2600,
+      "id": "6920"
+    },
+    {
+      "rank": 23,
+      "logo_link": "https://m.media-amazon.com/images/I/7189UmH5qjL.jpg",
+      "image_car": "https://www.headlightmag.com/hlmwp/wp-content/uploads/2023/04/Price-Porsche-Cayenne-Coupe-MY2024.jpg",
+      "name": "porsche",
+      "type": "SUV",
+      "car_model": "Cayenne",
+      "car_detail": "Engine: Base Model: 3.0-liter turbocharged V6, producing around 335 horsepower.\nTransmission: 8-speed automatic transmission is standard across all models.\nHybrid Model: The Cayenne Turbo S E-Hybrid is a plug-in hybrid variant combining a V8 engine with an electric motor.\nSafety: Includes advanced safety features such as adaptive cruise control, lane-keeping assist, automatic emergency braking, and a comprehensive airbag system.\nTechnology: Equipped with a high-resolution touchscreen infotainment system featuring Porsche Communication Management (PCM), which includes navigation, Apple CarPlay, and Android Auto. Additional tech features may include a premium sound system and various driver assistance systems.\nPassenger Capacity: Seats 5 people with a spacious and luxurious interior, including options for rear-seat configurations and advanced comfort features.",
+      "Car_rental price": 4076,
+      "id": "9f96"
+    },
+    {
+      "rank": 24,
+      "logo_link": "https://m.media-amazon.com/images/I/7189UmH5qjL.jpg",
+      "image_car": "https://cf.autodeft2.pw/content/20240207/porsche-taycan-minorchange-picture-and-spec-revealed-2024-9-RZkJs9.jpg",
+      "name": "porsche",
+      "type": "Electric Vehicle - EV",
+      "car_model": "Taycan",
+      "car_detail": "Engine: Dual-motor all-wheel drive with a combined output of around 562 horsepower (or 590 horsepower with overboost).\nTransmission: 2-speed automatic transmission for the rear motor and a single-speed transmission for the front motor.\nHybrid Model: The Taycan is a fully electric vehicle and does not offer a hybrid variant.\nSafety: Includes advanced safety features such as adaptive cruise control, lane-keeping assist, automatic emergency braking, and a comprehensive airbag system. Additional driver assistance options are available.\nTechnology: Features a high-resolution digital instrument cluster, multiple touchscreen displays (including a central infotainment screen), Porsche Communication Management (PCM), and advanced connectivity features. It also supports Apple CarPlay and Android Auto, with optional wireless charging and a premium sound system.\nPassenger Capacity: Seats 4 people with a luxury-focused interior and optional rear seats. The Taycan offers ample cargo space with both a front trunk (frunk) and a rear trunk.",
+      "Car_rental price": 3264,
+      "id": "2e94"
+    },
+    {
+      "rank": 25,
+      "logo_link": "https://www.shutterstock.com/image-vector/lamborghini-icon-logo-art-design-260nw-2269732171.jpg",
+      "image_car": "https://www.motortrend.com/uploads/2022/07/2023-Lamborghini-Huracan-Tecnica-41.jpg?w=768&width=768&q=75&format=webp",
+      "name": "lamborghini",
+      "type": "Luxury Car",
+      "car_model": "Huracan Tecnica",
+      "car_detail": "Engine: 5.2-liter naturally aspirated V10 engine, producing around 640 horsepower.\nTransmission: 7-speed dual-clutch automatic transmission (LDF) is standard.\nHybrid Model: The Huracán does not currently offer a hybrid variant.\nSafety: Includes advanced safety features such as adaptive cruise control, parking sensors, and stability control systems. The focus is primarily on high-performance driving.\nTechnology: Features a high-resolution touchscreen infotainment system with Lamborghini's proprietary interface, navigation, and various driving modes. It also includes Apple CarPlay, and in some models, Android Auto.\nPassenger Capacity: Seats 2 people with a driver-focused interior, offering limited rear space. The interior is designed for a sporty and immersive driving experience.",
+      "Car_rental price": 2641,
+      "id": "edf0"
+    },
+    {
+      "rank": 26,
+      "logo_link": "https://www.shutterstock.com/image-vector/lamborghini-icon-logo-art-design-260nw-2269732171.jpg",
+      "image_car": "https://www.grandprix.co.th/wp-content/uploads/2018/08/Lamborghini-Aventador-SV-J-1-400x267.jpg",
+      "name": "lamborghini",
+      "type": "Luxury Car",
+      "car_model": "Aventador",
+      "car_detail": "Engine: 6.5-liter naturally aspirated V12 engine, producing around 730 horsepower.\nTransmission: 7-speed dual-clutch automatic transmission (LDF) is standard.\nHybrid Model: The Huracán does not currently offer a hybrid variant.\nSafety: Includes advanced safety features such as adaptive cruise control, parking sensors, and stability control systems. The focus is primarily on high-performance driving.\nTechnology: Features a high-resolution touchscreen infotainment system with Lamborghini's proprietary interface, navigation, and various driving modes. It also includes Apple CarPlay, and in some models, Android Auto.\nPassenger Capacity: Seats 2 people with a driver-focused interior, offering limited rear space. The interior is designed for a sporty and immersive driving experience.",
+      "Car_rental price": 3899,
+      "id": "8164"
+    },
+    {
+      "rank": 27,
+      "logo_link": "https://www.shutterstock.com/image-vector/lamborghini-icon-logo-art-design-260nw-2269732171.jpg",
+      "image_car": "https://www.topgear.com/sites/default/files/2024/05/4%20Lamborghini%20Revuelto%20review%20UK%202024.jpg?w=976&h=549",
+      "name": "lamborghini",
+      "type": "Luxury Car",
+      "car_model": "Revuelto",
+      "car_detail": "Engine:The Revuelto features a 6.5-liter naturally aspirated V12 engine combined with three electric motors. The total system output is around 1,001 horsepower, making it one of Lamborghini's most powerful models.\nTransmission:8-speed dual-clutch automatic transmission (DCT) is standard, designed to handle the high power output and provide rapid gear changes.\nHybrid Model: A plug-in hybrid vehicle, combining a V12 engine with electric motors for improved performance and efficiency.\nSafety: Includes advanced safety features such as adaptive cruise control, lane-keeping assist, automatic emergency braking, and a comprehensive airbag system. Additional driver assistance features are available.\nTechnology: Features a high-resolution digital instrument cluster, multiple touchscreen displays, Lamborghini's proprietary infotainment system with advanced connectivity features, navigation, and Apple CarPlay. The system also includes various driving modes and performance tracking.\nPassenger Capacity: Seats 2 people with a luxury-focused, driver-centric interior. The cabin is designed for both high performance and comfort, with premium materials and advanced technology.",
+      "Car_rental price": 3264,
+      "id": "c314"
+    }
+  ],
+  "CarRental": [
+    {
+      "id": "54d6",
+      "carName": "Toyota",
+      "carPrice": 3893,
+      "imageCar": "https://newgarage.com/uploads/post_image/keAGn2rsb2X2pCC48nXJt3XgxK8MwqQToyota_Camry_2.0G_%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%AA_Prins_silverline_Technomax_-_Prins_Thailand.jpg",
+      "carDetail": "Engine: Available in 2.5-liter 4-cylinder and 3.5-liter V6 options.\nTransmission: 8-speed automatic transmission.\nHybrid Model: Uses a 2.5-liter engine with an electric motor.\nSafety: Toyota Safety Sense comes standard.\nTechnology: Touchscreen with Apple CarPlay and Android Auto.\nPassenger Capacity: Seats 5 people with a spacious cabin.",
+      "pickupDate": "2024-10-03",
+      "returnDate": "2024-10-04"
+    },
+    {
+      "id": "ab6d",
+      "carName": "Toyota",
+      "carPrice": 2639,
+      "imageCar": "https://www.grandprix.co.th/wp-content/uploads/2024/01/Toyota-Corolla-Cross-2024-5.jpg",
+      "carDetail": "Engine: Available with a 1.8-liter 4-cylinder or a 2.0-liter 4-cylinder engine.\nTransmission: Continuously Variable Transmission (CVT).\nHybrid Model: Available with a hybrid system for improved fuel efficiency.\nSafety: Equipped with Toyota Safety Sense as standard.\nTechnology: Touchscreen with Apple CarPlay and Android Auto.\nPassenger Capacity: Seats 5 people with ample cargo space.",
+      "pickupDate": "2024-10-26",
+      "returnDate": "2024-10-31"
+    }
+  ]
+}
